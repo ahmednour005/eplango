@@ -130,7 +130,7 @@ body{
   text-decoration: none;
   display: block;
   margin-top: -2px;
-  width: 110px;
+  width: 115px;
   text-align: center;
 }
 .bg-light .nav-item::before{
